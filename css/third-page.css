@@ -1,0 +1,40 @@
+.third-page__container {
+    padding: 192px 15px 0px 15px;
+}
+
+.third-page__body {
+    display: flex;
+    column-gap: 105px;
+}
+
+.third-page__article {
+    flex: 0 1 53.6585365%;
+}
+
+.third-page__image {
+    flex: 0 1 37.804878%;
+}
+
+.article__titlebox:not(:last-child) {
+    margin-bottom: 48px;
+}
+
+.article__bold {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    line-height: 30px;
+}
+
+.article__bold:not(:last-child) {
+    margin-bottom: 24px;
+}
+
+.article__text {
+    color: #424551;
+    line-height: 26px;
+}
+
+.article__text:not(:last-child) {
+    margin-bottom: 60px;
+}
